@@ -1,2 +1,2 @@
 <h1>Programação Front-end</h1>
-Repositório da disciplina de Programação Front-end.
+Repositório da disciplina de <em>Programação Front-end<em>.
